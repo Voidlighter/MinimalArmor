@@ -1,3 +1,0 @@
-This pack changes only the iron armor and diamond armor textures so that the player's skin won't be nearly as obstructed by the armor. The armor is meant to still be clearly visible so that in for example a PVP situation it is still easily understood how much armor is being worn by the other person.
-
-The leather/gold armor variants have not been changed yet because they aren't used nearly as often in survival for armor for the sake of protection. Really I just wanted to change armor that would be used for protection to not obstuct the player's skin, as well as making the full diamond - chestplate + elytra look better.
