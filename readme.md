@@ -28,7 +28,7 @@ updated, I finally had the motivation (and time) to get around to updating it.
 If you want to support me, I could use all the follows and subscribers I can get!
 ### I'd love if you could credit me too if you use this texture pack in videos!
 
-Everything is at [voidlighter.com](https://voidlighter.github.io) or you can find 
+Everything is at [voidlighter.org](https://voidlighter.github.io) or you can find 
 my individaul things below:
 
 Twitch: 
@@ -38,8 +38,8 @@ YouTube:
 [youtube.com/@CadeVoidlighter](https://www.youtube.com/@CadeVoidlighter)
 
 Discord: 
-[voidlighter.com/discord](https://voidlighter.com/discord) 
-*||also https://discord.gg/DGYU2UnzXS||*
+[voidlighter.com/discord](https://voidlighter.org/discord) 
+*also https://discord.gg/DGYU2UnzXS*
 
 GitHub:
 [github.com/voidlighter](https://github.com/voidlighter)
@@ -47,9 +47,9 @@ GitHub:
 ---------------------------------------------------
 
 Website: 
-[voidlighter.com](https://voidlighter.com)
-||https://voidlighter.github.io||
+[voidlighter.org](https://voidlighter.org)
+*also https://voidlighter.github.io*
 
 Streaming Schedule: 
-[voidlighter.com/calendar](https://voidlighter.com/calendar)
-||https://voidlighter.github.io/calendar||
+[voidlighter.org/calendar](https://voidlighter.org/calendar)
+*also https://voidlighter.github.io/calendar*
